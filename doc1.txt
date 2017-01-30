@@ -1,0 +1,13 @@
+this is a text document
+what shall i put in here?
+idk
+that is the question
+probably nothing of substance as this little doodiddly is fulfilling but i need to relearn git cause apparently I forgot what little knowledge i had with the stuff before so im gonna try to git commit and push this stuff and what not gotta add it first preston
+>git add
+>git commit -m
+>git push
+>comedy chevrons
+>pepe pointers
+>meme arrows
+>whatever
+
